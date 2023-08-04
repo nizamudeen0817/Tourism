@@ -1,0 +1,134 @@
+body{
+    background-color: #A4BE7B;
+    height: 100vh;
+    
+    font-family: 'Roboto Condensed', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 75px;
+    width: 100vw;
+    background-color: #285430;
+    margin-left: 0;
+}
+.bg{
+    height: 500px;
+    width: 100vw;
+}
+.menu{
+    float:left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-left: 100px;
+    margin-top: 28px;
+    
+
+}
+label{
+    margin-right: 25px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.logo{
+    float:left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+    width: 200px;
+    
+}
+.signup{
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-right: 80px;
+}
+.search{
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+    border: none;
+   
+}
+.srch{
+    width: 250px;
+    border: none;
+    border-bottom: 2px white solid;
+    background-color: transparent;
+}
+:placeholder-shown{
+    color: white;
+}
+
+.carousel-inner{
+    width: 100%;
+    height: 700px;
+}
+.d-block{
+    height: 700px;
+    width: 100%;
+}
+.caoursel{
+    
+}
+.card{
+    
+    float: left;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+    
+}
+.crd{
+    margin-left: 100px;
+
+}
+.crd2{
+    margin: 100px;
+}
+.footer{
+    width: 100%;
+    background-color: #5F8D4E;
+    float: left;
+    margin-top: 100px;
+}
+.btn2{
+    border: none;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    color: white;
+
+}
+.btn1{
+    border: none;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    color:#285430;
+
+}
+.card-img-top{
+    height: 180px;
+    width: 287px;
+
+}
+.login{
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-right: 80px;   
+}
+
